@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{124C334E-70EB-4514-9302-9444E84B7D15}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TCPClientIleriProgramlama/Program.cs">
+    <Files>
+      <File FileName="TCPClientIleriProgramlama/Program.cs" Line="14" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TCPClientIleriProgramlama" expanded="True">
+            <Node name="TCPClientIleriProgramlama" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.TCPClientIleriProgramlama PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

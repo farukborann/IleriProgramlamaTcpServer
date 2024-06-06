@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerIleriProgramlama", "TCPServerIleriProgramlama\TCPServerIleriProgramlama.csproj", "{80D95984-381C-4B34-B15F-67D0B93E3BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D95984-381C-4B34-B15F-67D0B93E3BCF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{80D95984-381C-4B34-B15F-67D0B93E3BCF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{80D95984-381C-4B34-B15F-67D0B93E3BCF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{80D95984-381C-4B34-B15F-67D0B93E3BCF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F8F6A2-80E2-48FB-A454-FF31C0747B63}
+	EndGlobalSection
+EndGlobal
